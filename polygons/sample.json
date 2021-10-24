@@ -1,0 +1,38 @@
+{
+  "type": "Feature",
+  "id": ,
+  "properties": {
+    "name": "",
+    "code": "",
+    "class": "MRC",
+    "parent_id": 8118159,
+    "color": "#000000"
+  },
+  "geometry": 
+}
+
+{
+  "type": "Feature",
+  "id": ,
+  "properties": {
+    "name": "",
+    "code": "",
+    "class": "",
+    "parent_id": ,
+    "color": "#000000",
+    "pop": 
+  },
+  "geometry": {
+    "type": "GeometryCollection",
+    "geometries": [
+      {
+        "type": "MultiPolygon",
+        "coordinates": [[[]]]
+      },
+      {
+        "type": "Point",
+        "coordinates": []
+      }
+    ]
+  }
+}

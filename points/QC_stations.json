@@ -1,0 +1,2732 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7060400,
+      "properties": {
+        "name": "✈ BFC Bagotville",
+        "code": "CYBG",
+        "class": "Observation station",
+        "provider": 2,
+        "elevation": 159,
+        "dd_man": 1,
+        "dd_auto": 0,
+        "dd_auto_min": 0,
+        "past24hrs": "ybg",
+        "startYear": 1942,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.9869, 48.33393]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7061541,
+      "properties": {
+        "name": "Chute-des-Passes",
+        "code": "CWDT",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 398,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wdt",
+        "startYear": 1960,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.168333, 49.840138]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "701LP0N",
+      "properties": {
+        "name": "Lac Saint-Pierre",
+        "code": "CWBS",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 4,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wbs",
+        "startYear": 1992,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.9167, 46.1833]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7056202,
+      "properties": {
+        "name": "Port-Menier",
+        "code": "CWBY",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 55,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wby",
+        "startYear": 1992,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.293222, 49.838722]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7044328,
+      "properties": {
+        "name": "Longue-Pointe-de-Mingan",
+        "code": "CWBT",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 11,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wbt",
+        "startYear": 1994,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.226628, 50.271508]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "702FQLF",
+      "properties": {
+        "name": "Saint-Anicet",
+        "code": "CWBZ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 49,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wbz",
+        "startYear": 1994,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.2895, 45.1208]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "706I155",
+      "properties": {
+        "name": "Lac Manouane Est",
+        "code": "CWDP",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 497,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wdp",
+        "startYear": 1994,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.532028, 50.656472]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "707DBD4",
+      "properties": {
+        "name": "✈ La Tuque",
+        "code": "CWDQ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 169,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wdq",
+        "startYear": 1994,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.7875, 47.411111]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "701Q009",
+      "properties": {
+        "name": "Lemieux",
+        "code": "CMLU",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 97,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "mlu",
+        "startYear": 1999,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.0605, 46.3038]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7116505,
+      "properties": {
+        "name": "Rivière aux Feuilles",
+        "code": "CMRF",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 171,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "mrf",
+        "startYear": 2005,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.976, 57.909722]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7028442,
+      "properties": {
+        "name": "Thetford Mines RCS",
+        "code": "CMTH",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 430,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "mth",
+        "startYear": 2006,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.266447, 46.049133]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7045401,
+      "properties": {
+        "name": "✈ Natashquan",
+        "code": "CMNT",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 12,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "mnt",
+        "startYear": 2008,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.794219, 50.190066]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7027470,
+      "properties": {
+        "name": "Saint-Germain-de-Grantham",
+        "code": "CMSI",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 85,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "msi",
+        "startYear": 2008,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.537, 45.8253]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7077571,
+      "properties": {
+        "name": "Saint-Michel-des-Saints",
+        "code": "CMMY",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 430,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "mmy",
+        "startYear": 2009,
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.094028, 46.815583]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7098605,
+      "properties": {
+        "name": "✈ Val-d'Or",
+        "code": "CYVO",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 336.8,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yvo",
+        "startYear": "2011-08-22",
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.78278, 48.05333]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7086719,
+      "properties": {
+        "name": "✈ Rouyn-Noranda",
+        "code": "CYUY",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 301,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 0,
+        "dd_auto_min": 0,
+        "past24hrs": "yuy",
+        "startYear": "2012-12-03",
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.83559, 48.20619]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7025251,
+      "properties": {
+        "name": "✈ Montréal – P. E. Trudeau",
+        "code": "CYUL",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 36,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 0,
+        "dd_auto_min": 0,
+        "past24hrs": "yul",
+        "startYear": "2013-02-13",
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.74093, 45.47046]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7055121,
+      "properties": {
+        "name": "✈ Mont-Joli",
+        "code": "CYYY",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 52.4,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 0,
+        "dd_auto_min": 0,
+        "past24hrs": "yyy",
+        "startYear": "2013-03-12",
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.20759, 48.60902]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7016293,
+      "properties": {
+        "name": "✈ Québec – Jean Lesage",
+        "code": "CYQB",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 74.4,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 0,
+        "dd_auto_min": 0,
+        "past24hrs": "yqb",
+        "startYear": "2013-10-08",
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.39331, 46.7912]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7117800,
+      "properties": {
+        "name": "✈ Salluit",
+        "code": "CMFX",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 229,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "mfx",
+        "startYear": "2014-07-03",
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.6703, 62.17945]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7055440,
+      "properties": {
+        "name": "New Richmond East",
+        "code": "CMJN",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 2,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "mjn",
+        "startYear": "2017-03-02",
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.841919, 48.156733]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7023681,
+      "properties": {
+        "name": "Nantes",
+        "code": "CMUS",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 476.706,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "mus",
+        "startYear": "2019-08-08",
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.932739, 45.606366]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70132G9",
+      "properties": {
+        "name": "Île d'Orléans",
+        "code": "CWER",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 3.6,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wer",
+        "startYear": "1992-12-05",
+        "endYear": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.8083, 46.9967]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7014160,
+      "properties": {
+        "name": "L'Assomption",
+        "code": "CWEW",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 21.0,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.4348, 45.8094]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7022579,
+      "properties": {
+        "name": "Frelighsburg",
+        "code": "CWFQ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 225.3,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wfq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.856117, 45.039583]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "704S001",
+      "properties": {
+        "name": "Baie-Comeau",
+        "code": "CWFW",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 129.8,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wfw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.1458, 49.2592]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7041312,
+      "properties": {
+        "name": "Charlevoix (MRC)",
+        "code": "CWIS",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 722.453,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.637251, 47.284039]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7027039,
+      "properties": {
+        "name": "Sainte-Clotilde",
+        "code": "CWIT",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 53.0,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.678889, 45.167222]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7065012,
+      "properties": {
+        "name": "Mistook",
+        "code": "CWIX",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 112.5,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.715944, 48.598333]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "702LED4",
+      "properties": {
+        "name": "L'Acadie",
+        "code": "CWIZ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 43.8,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.3498, 45.294]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "701Q004",
+      "properties": {
+        "name": "Sainte-Foy (U. Laval)",
+        "code": "CWJB",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 91.4,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wjb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.2875, 46.7803]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7063370,
+      "properties": {
+        "name": "Jonquière",
+        "code": "CWJO",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 135.62,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wjo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.142503, 48.425033]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "703GDKB",
+      "properties": {
+        "name": "Saint-Jovite",
+        "code": "CWJT",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 238.5,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wjt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.555805, 46.080222]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7034482,
+      "properties": {
+        "name": "Maniwaki Airport",
+        "code": "CWMJ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 200.73,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wmj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.98775, 46.273555]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7055422,
+      "properties": {
+        "name": "New Carlisle 1",
+        "code": "CWOC",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 46.6,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "woc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.331611, 48.012027]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7065639,
+      "properties": {
+        "name": "Normandin",
+        "code": "CWOD",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 152.397,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.54643, 48.841979]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7015791,
+      "properties": {
+        "name": "L'Étape",
+        "code": "CWPD",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 791.2,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wpd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.2289, 47.5622]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7075800,
+      "properties": {
+        "name": "Parent",
+        "code": "CWPK",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 445.06,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wpk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.6244, 47.9224]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "701S001",
+      "properties": {
+        "name": "Québec / Jean Lesage Intl",
+        "code": "CWQB",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 445.06,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wqb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.3817, 46.8036]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7046059,
+      "properties": {
+        "name": "Pointe de l'Islet",
+        "code": "CWQD",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 7.0,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wqd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.716938, 48.135333]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7024280,
+      "properties": {
+        "name": "Lennoxville",
+        "code": "CWQH",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 181.0,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wqh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.82343, 45.368613]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7041166,
+      "properties": {
+        "name": "Cap-Rouge",
+        "code": "CWQM",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 7.3,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wqm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.5353, 48.3742]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "705LKPQ",
+      "properties": {
+        "name": "Île Bicquette",
+        "code": "CWQM",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 7.0,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wqm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.8928, 48.4156]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7043B79",
+      "properties": {
+        "name": "Île aux Perroquets",
+        "code": "CWQR",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 9.0,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wqr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.2072, 50.2208]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "704607C",
+      "properties": {
+        "name": "Pointe Claveau",
+        "code": "CWQV",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 4.0,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wqv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.1146, 48.2605]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7041100,
+      "properties": {
+        "name": "Cape Whittle",
+        "code": "CWQW",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 7.0,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wqw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.061603, 50.162833]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7051050,
+      "properties": {
+        "name": "Cap-d'Espoir",
+        "code": "CWRZ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 15.5,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wrz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.316944, 48.419388]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7051163,
+      "properties": {
+        "name": "Cap-Madeleine",
+        "code": "CWSF",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 28.9,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wsf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.3249, 49.2508]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "705S002",
+      "properties": {
+        "name": "Cap-Chat",
+        "code": "CWSG",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 4.201,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wsg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.654533, 49.109068]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7024745,
+      "properties": {
+        "name": "McTavish",
+        "code": "CWTA",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 72.583,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.579185, 45.504926]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "704F0PN",
+      "properties": {
+        "name": "Pointe-des-Monts",
+        "code": "CWTG",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 5.8,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wtg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.372778, 49.3167]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7041JG6",
+      "properties": {
+        "name": "Cap-Tourmente",
+        "code": "CWTN",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 6.569,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wtn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.7808, 47.0786]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "702S006",
+      "properties": {
+        "name": "Montréal / P.-E. Trudeau Intl",
+        "code": "CWTQ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 32.48,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wtq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7417, 45.4678]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7086716,
+      "properties": {
+        "name": "Rouyn",
+        "code": "CWUY",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 319.591,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wuy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.0338, 48.245827]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "702FHL8",
+      "properties": {
+        "name": "Sainte-Anne-de-Bellevue 1",
+        "code": "CWVQ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 39.0,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wvq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.928889, 45.435833]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7065738,
+      "properties": {
+        "name": "Onatchiway",
+        "code": "CWXC",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 304.0,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wxc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0322, 48.8942]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7010565,
+      "properties": {
+        "name": "Beauport",
+        "code": "CXBO",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 10.0,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "xbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.197339, 46.836997]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7047914,
+      "properties": {
+        "name": "Sept-Îles",
+        "code": "CXZV",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 52.6,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "xzv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.2414, 50.218]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7093714,
+      "properties": {
+        "name": "La Grande IV",
+        "code": "CYAH",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 306.3,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.67528, 53.75472]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7113384,
+      "properties": {
+        "name": "Kangirsuk",
+        "code": "CYAS",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 123.8,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.99917, 60.02722]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7040444,
+      "properties": {
+        "name": "Baie-Comeau",
+        "code": "CYBC",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 21.6,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ybc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.20435, 49.1325]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7040816,
+      "properties": {
+        "name": "Lourdes-de-Blanc-Sablon",
+        "code": "CYBX",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 37.2,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ybx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.18528, 51.44361]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7093716,
+      "properties": {
+        "name": "La Grande Rivière",
+        "code": "CYGL",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 195.02,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 0,
+        "dd_auto_min": 0,
+        "past24hrs": "ygl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.70417, 53.62528]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7052602,
+      "properties": {
+        "name": "Gaspé",
+        "code": "CYGP",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 34.1,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ygp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.47972, 48.77528]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7043019,
+      "properties": {
+        "name": "Havre-Saint-Pierre",
+        "code": "CYGV",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 37.8,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ygv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.61139, 50.28194]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7103537,
+      "properties": {
+        "name": "Kuujjuarapik",
+        "code": "CYGW",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 12.2,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ygw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.76528, 55.28194]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7116273,
+      "properties": {
+        "name": "Quaqtaq",
+        "code": "CYHA",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 32.3,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.61777, 61.04639]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7113380,
+      "properties": {
+        "name": "Kangiqsujuaq",
+        "code": "CYKG",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 157.6,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ykg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.92944, 61.58861]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7117823,
+      "properties": {
+        "name": "Schefferville",
+        "code": "CYKL",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 520.9,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ykl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.80527, 54.80528]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7100072,
+      "properties": {
+        "name": "Akulivik",
+        "code": "CYKO",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 23.2,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.14861, 60.81861]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7098898,
+      "properties": {
+        "name": "Waskaganish",
+        "code": "CYKQ",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 24.1,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ykq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.75839, 51.47332]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7110601,
+      "properties": {
+        "name": "Aupaluk",
+        "code": "CYLA",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 36.9,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.59972, 59.29667]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7113391,
+      "properties": {
+        "name": "Kangiqsualujjuaq",
+        "code": "CYLU",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 66.1,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ylu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.99277, 58.71139]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7091409,
+      "properties": {
+        "name": "Chibougamau / Chapais",
+        "code": "CYMT",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 387.1,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ymt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.52797, 49.77186]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7108564,
+      "properties": {
+        "name": "Umiujaq",
+        "code": "CYMU",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 76.5,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ymu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.51833, 56.53611]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7045398,
+      "properties": {
+        "name": "Natashquan",
+        "code": "CYNA",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 11.9,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.78889, 50.19]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7098908,
+      "properties": {
+        "name": "Wemindji",
+        "code": "CYNC",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 20.1,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ync"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.83111, 53.01056]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7032685,
+      "properties": {
+        "name": "Ottawa / Gatineau",
+        "code": "CYND",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 64.3,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ynd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.56361, 45.52167]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7094636,
+      "properties": {
+        "name": "Matagami",
+        "code": "CYNM",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 279.8,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ynm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.80278, 49.76167]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7018573,
+      "properties": {
+        "name": "Valcartier A",
+        "code": "CYOY",
+        "class": "Observation station",
+        "provider": 2,
+        "elevation": 167.6,
+        "color": "#000000",
+        "precision": 5e-4,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.503, 46.9]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7018561,
+      "properties": {
+        "name": "Trois-Rivières",
+        "code": "CYRQ",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 60.7,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yrq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.68046, 46.35157]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7018562,
+      "properties": {
+        "name": "Trois-Rivières",
+        "code": "CWTY",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 5.9,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.5151, 46.3537]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7092310,
+      "properties": {
+        "name": "Eastmain River",
+        "code": "CZEM",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 7.3,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "zem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.5225, 52.22639]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7027329,
+      "properties": {
+        "name": "Montréal / Saint-Hubert",
+        "code": "CYHU",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 27.4,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yhu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.41699, 45.51806]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7028123,
+      "properties": {
+        "name": "Sherbrooke",
+        "code": "CYSC",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 241.4,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ysc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.69135, 45.43848]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "702CFGG",
+      "properties": {
+        "name": "Lac Memphrémagog",
+        "code": "CWTT",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 208.7,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wtt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.161667, 45.267639]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7034900,
+      "properties": {
+        "name": "Montréal / Mirabel International",
+        "code": "CYMX",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 82.3,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 0,
+        "dd_auto_min": 0,
+        "past24hrs": "ymx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.03871, 45.68042]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7028754,
+      "properties": {
+        "name": "Beauceville",
+        "code": "CWHV",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 229.2,
+        "color": "#000000",
+        "precision": 5e-4,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "whv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.785, 46.205]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7117802,
+      "properties": {
+        "name": "Salluit",
+        "code": "CYZG",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 227.1,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yzg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.66722, 62.17944]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7103329,
+      "properties": {
+        "name": "Ivujivik",
+        "code": "CYIK",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 38.7,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.92528, 62.41722]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7106223,
+      "properties": {
+        "name": "Puvirnituq",
+        "code": "CYPX",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 25.3,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ypx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.28761, 60.05211]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7103280,
+      "properties": {
+        "name": "Inukjuak",
+        "code": "CYPH",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 25.0,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.07694, 58.47194]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7113535,
+      "properties": {
+        "name": "Kuujjuaq",
+        "code": "CYVP",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 39.9,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 0,
+        "dd_auto_min": 0,
+        "past24hrs": "yvp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.42694, 58.09611]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7053038,
+      "properties": {
+        "name": "Heath Point",
+        "code": "CWHP",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 5.045,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "whp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.700494, 49.085222]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7053254,
+      "properties": {
+        "name": "Îles-de-la-Madeleine",
+        "code": "CYGR",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 10.7,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ygr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.77734, 47.42507]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7051201,
+      "properties": {
+        "name": "Causapscal Airport",
+        "code": "CGCL",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 124.4,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "gcl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.25275, 48.308816]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7052603,
+      "properties": {
+        "name": "Gaspé Airport",
+        "code": "CGGA",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 33.3,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "gga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.4794, 48.77672]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7117824,
+      "properties": {
+        "name": "Schefferville Côte-Nord",
+        "code": "CGKM",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 519,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "gkm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.804533, 54.8027]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7094637,
+      "properties": {
+        "name": "Matagami",
+        "code": "CGMG",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 281.484,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "gmg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.793226, 49.757871]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7018563,
+      "properties": {
+        "name": "Trois-Rivières",
+        "code": "CGRQ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 63.0,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "grq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.67593, 46.359328]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7026930,
+      "properties": {
+        "name": "Saint-Camille-de-Lellis",
+        "code": "CGSA",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 404.083,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "gsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.207442, 46.494686]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7103539,
+      "properties": {
+        "name": "Kuujjuarapik",
+        "code": "CMFJ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 31.3,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "mfj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.629167, 55.369516]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7042395,
+      "properties": {
+        "name": "Forêt Montmorency RCS",
+        "code": "CMFM",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 673.105,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "mfm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.148281, 47.322593]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7022802,
+      "properties": {
+        "name": "Granby",
+        "code": "CMGB",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 87.0,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "mgb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.7739, 45.3728]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7042845,
+      "properties": {
+        "name": "Grandes Bergeronnes",
+        "code": "CMGZ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 60.3,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "mgz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.5436, 48.2744]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7115800,
+      "properties": {
+        "name": "Parc National des Pingualuit",
+        "code": "CMIN",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 503.43,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "min"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.668406, 61.312833]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7055122,
+      "properties": {
+        "name": "Mont-Joli",
+        "code": "CMJI",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 55.9,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "mji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.195556, 48.605277]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "710S005",
+      "properties": {
+        "name": "Inukjuak",
+        "code": "CMJK",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 25.0,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "mjk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.0787, 58.4673]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7043BP9",
+      "properties": {
+        "name": "Île-Rouge",
+        "code": "CWAF",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 4.9,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "waf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.5556, 48.0689]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7080468,
+      "properties": {
+        "name": "Barrage Témiscamingue",
+        "code": "CWAF",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 182.4,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.1011, 46.7097]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "706I001",
+      "properties": {
+        "name": "Lac Benoît",
+        "code": "CWDE",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 549.0,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1104, 51.5324]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7041382,
+      "properties": {
+        "name": "Chevery",
+        "code": "CWDM",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 8.0,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wdm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-59.639556, 50.464888]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "704C64L",
+      "properties": {
+        "name": "Lac Éon",
+        "code": "CWEO",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 589.2,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "weo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.28325, 51.867361]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7061288,
+      "properties": {
+        "name": "Chamouchouane",
+        "code": "CWEE",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 304.99,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.355861, 49.278305]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7053KGR",
+      "properties": {
+        "name": "Îles-de-la-Madeleine",
+        "code": "CWGR",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 9.6,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wgr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.774667, 47.425194]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7011983,
+      "properties": {
+        "name": "Deschambault",
+        "code": "CWHQ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 63.5,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "whq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.949167, 46.686944]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "701LBPH",
+      "properties": {
+        "name": "Île aux Grues",
+        "code": "CWIG",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 18.3,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.5331, 47.0736]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7060826,
+      "properties": {
+        "name": "Bonnard 1",
+        "code": "CWKD",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 498.0,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wkd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0131, 50.7289]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7056616,
+      "properties": {
+        "name": "Rivière-du-Loup",
+        "code": "CWNH",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 146.5,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wnh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.5485, 47.8061]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7025442,
+      "properties": {
+        "name": "Nicolet",
+        "code": "CWNQ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 8.3,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 1,
+        "past24hrs": "wnq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.6572, 46.2258]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7054096,
+      "properties": {
+        "name": "La Pocatière",
+        "code": "CWST",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 30.8,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 0,
+        "dd_auto_min": 1,
+        "past24hrs": "wst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.029883, 47.354483]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7091299,
+      "properties": {
+        "name": "Chapais",
+        "code": "CWUK",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 381.1,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.975442, 49.822269]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "706Q001",
+      "properties": {
+        "name": "La Baie",
+        "code": "CWUX",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 151.64,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.9195, 48.2981]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7056068,
+      "properties": {
+        "name": "Pointe-au-Père (INRS)",
+        "code": "CWYQ",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 4.9,
+        "color": "#000000",
+        "precision": 5e-7,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "wyq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.468416, 48.513861]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7033121,
+      "properties": {
+        "name": "High Falls",
+        "code": "CXHF",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 194.6,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "xhf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.6487, 45.83983]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7064181,
+      "properties": {
+        "name": "Laterrière",
+        "code": "CXLT",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 161.8,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "xlt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1292, 48.3072]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7018001,
+      "properties": {
+        "name": "Shawinigan",
+        "code": "CXSH",
+        "class": "Observation station",
+        "provider": 1,
+        "elevation": 110.9,
+        "color": "#000000",
+        "precision": 5e-5,
+        "dd_man": 0,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "xsh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.7333, 46.5635]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7066687,
+      "properties": {
+        "name": "Roberval",
+        "code": "CYRJ",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 178.6,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "yrj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.26556, 48.52]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7118366,
+      "properties": {
+        "name": "Tasiujaq",
+        "code": "CYTQ",
+        "class": "Observation station",
+        "provider": 3,
+        "elevation": 36.9,
+        "color": "#000000",
+        "precision": 5e-6,
+        "dd_man": 1,
+        "dd_auto": 1,
+        "dd_auto_min": 0,
+        "past24hrs": "ytq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.95583, 58.66778]
+      }
+    }
+  ]
+}
